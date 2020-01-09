@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: localmeetups-co:z428THExjKsw5WpnVZnokr6J
   email:
     recipients:
       - oscar@platzi.com
